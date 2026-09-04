@@ -1,4 +1,4 @@
-# [Project Handover] OKX SFP 퀀트 자동매매 시스템 마스터 인수인계서 (v2.1)
+# [Project Handover] OKX SFP 퀀트 자동매매 시스템 마스터 인수인계서 (v2.2)
 
 ## 1. 프로젝트 개요 및 코어 철학
 - **시스템 명칭**: OKX SFP + SMC Liquidity Sweep & Micro-structure Live Trading Bot
